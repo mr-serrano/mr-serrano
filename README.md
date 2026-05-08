@@ -1,16 +1,17 @@
-## Hi there 👋
+# Boken Software
 
-<!--
-**mr-serrano/mr-serrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software studio focused on custom web applications and tailored digital solutions.
 
-Here are some ideas to get you started:
+Mainly working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ASP.NET Core
+* C#
+* MySQL
+* Full-stack web development
+* Multilingual applications
+* Business software
+
+Most repositories are private due to commercial client work and ongoing product development.
+
+🌍 Canary Islands, Spain
+🔗 https://boken.es
